@@ -78,6 +78,14 @@ O que é que você consegue gastar por dia com 3 reais? É uma boa pergunta, né
 
 **Ajuste sugerido:** dizer "por habitante", e não "por pessoa que usa o SUS". Antes de gravar, confira a fonte e o ano de cada número.
 
+## Fala de tom leve: por que escolhi medicina
+
+Por que eu escolhi fazer medicina? Fazer medicina para mim nunca foi um sonho. Na verdade, eu sempre sonhei em fazer tudo. Desde que eu sou pequena. Meu sonho, na verdade, era ser gari. Fui crescendo e fui me apaixonando pela educação, me apaixonando por perguntar, descobrir e conseguir respostas, assim como fui me apaixonando pelo processo de obtê-las. Meu desejo mesmo sempre foi perguntar e descobrir. E aí, com o passar do tempo, fui me apaixonando pelo processo de vestibular. E aí eu sempre gostei de todas as matérias, então como eu ia escolher um curso? Aí, no final das contas, fiquei entre arquitetura, direito, ciências da computação e medicina.
+
+E a partir disso eu fui tentando cortar os cursos, então eu descartei ciência da computação porque acreditei que não faria meu perfil ficar muito na tela e menos relacionada a pessoas, assim como eu também não sei até que ponto a sensação de colaboração e de resultado é interferida pela barreira que existe a partir do meio digital nesse processo. Eu não sei até que ponto você se identifica como parte que possibilitou aquilo de acontecer. Quanto à arquitetura, é uma coisa que eu sempre gostei muito, inclusive é uma paixão até hoje, mas eu não sabia diferenciar se meu interesse era em produzir arquitetura ou se eu somente a admiro. E aí, por causa disso e com algumas conversas com algumas arquitetas, eu acabei por descartar a arquitetura. E aí, no final das contas, eu fiquei entre medicina e direito. Falei com duas pessoas diferentes e aí escutei todos os prós e contras de ambas.
+
+E ainda assim, mesmo sabendo de gostos extremamente compatíveis com o direito, com a qualidade de vida maior que a da medicina, entre vários outros, meu coração não conseguiu deixar a medicina. Meu coração não fez com que eu tivesse como escolher fazer direito, mesmo que racionalmente fizesse mais sentido. Então, mesmo com todos os argumentos contra a medicina, eu a escolhi. E foi por isso que eu escolhi, porque foi puramente emocional, foi puramente sentimental, instintivo. E aí que mora a beleza da medicina. Eu acho que quando você sente isso, você sabe que escolheu o caminho certo. Você sabe que vai se relacionar com gente. Você sabe que vai tratar o doente e não a doença. Você sabe que vai pesquisar, porque pesquisar também é um meio de produzir saúde. E na medicina eu encontrei tudo que eu sempre quis como estudante. Eu encontrei a possibilidade de perguntar por meio da pesquisa, a possibilidade de criar vínculo por meio dos atendimentos e a possibilidade de servir da mesma forma que eu sou servida pela sociedade.
+
 ## Pendências
 
-- Tema leve (pergunta 5 da entrevista, complementar): ainda não respondido.
+- Nenhuma pendência de entrevista. Se quiser acrescentar algo ao perfil, é só mandar.
