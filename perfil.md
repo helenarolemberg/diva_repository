@@ -64,6 +64,20 @@ Fala final da dica: "PEdro e IMenso vão até +1, PIntou vai até +2, e a ESTÁT
 
 Chamada da criadora: "Segue @medhelenarolemberg que eu te ensino a ver além do óbvio."
 
+## Fala sobre relacionamentos na faculdade
+
+Sabe qual é o maior engano da faculdade de medicina? Você achar que só por estudar muito e ser brilhante, você vai ser significante. De nada adianta ser uma pessoa inteligente, que brilha e que não é vista. Desde pequena, eu sempre fiz a maior questão de criar vínculos com pessoas importantes. Ser bem quista, ser bem vista, fazer com que as pessoas lembrassem de mim. Sabe qual é a prova disso? Pergunte a qualquer pessoa, qualquer professor, qualquer colega, o que é que me caracterizaria como aluna dentro de sala de aula. Eu aposto o que você quiser que qualquer uma dessas pessoas responderia, que é o fato de eu perguntar muito. E não é do aluno mais inteligente que tira as maiores notas que o professor vai lembrar. O professor lembra, convida para pesquisa, chama para um congresso o aluno que conversa com ele, o aluno que pergunta, o aluno que demonstra interesse, o aluno desenrolado. Se você não for desenrolado, você não ganha nada nessa vida. E a faculdade vai te engolir. Quer saber como aproveitar bem as oportunidades e juntar inteligência com relacionamentos? Segue @medhelenarolemberg.
+
+## Fala sobre saúde pública e financiamento do SUS
+
+O que é que você consegue gastar por dia com 3 reais? É uma boa pergunta, né? Agora, se eu te contar que a pessoa tem, em média, 3 reais por dia para gastar no SUS, o que é que você ia achar? Loucura, né? Imagina uma pessoa que tem diabetes e precisa fazer um tratamento. Como é que rola? 3 reais por dia? Por mês, com quanto aquela pessoa gasta? 90 reais. Sabe o que é isso? Isso é política pública. Isso é subfinanciamento do SUS. Sabe com o que isso tem a ver? Tem a ver com a desvinculação de receitas da União, que é uma emenda constitucional que foi implementada já há um tempo, mas foi ampliada em 2016, que permite que 30% da arrecadação federal, que estaria vinculada à Seguridade Social, seja desviada para qualquer outro setor. Qualquer outro setor.
+
+**Fonte do valor de 3 reais:** a criadora viu o dado em uma aula de saúde coletiva. Ele foi calculado a partir do valor destinado à saúde, dividido pelo número de pessoas cadastradas ou ativas no SUS. Na busca, não foi possível confirmar esse número. Com o total de habitantes e o gasto do Ministério da Saúde em 2024 (cerca de R$ 220 bilhões, pela [Fiocruz](https://cee.fiocruz.br/sites/default/files/Agenda%20Pol%C3%ADtica%20221025%20(2).pdf)), a estimativa é de cerca de R$ 2,97 por dia por habitante. A população de cerca de 203 milhões (Censo 2022) veio da memória e precisa ser confirmada.
+
+**Dado que pode complementar a fala:** o Conselho Federal de Medicina publicou a manchete "Brasil gasta R$ 3,83 ao dia com a saúde de cada habitante" ([CFM](https://portal.cfm.org.br/noticias/brasil-gasta-r-383-ao-dia-com-a-saude-de-cada-habitante/)). Segundo a busca, a publicação usa dados do SIOPS e chega a R$ 1.398,53 por habitante em 2019, que divididos por 365 dias dão R$ 3,83. Esse valor é de 2019 e inclui União, estados e municípios, por isso não é diretamente comparável ao gasto federal.
+
+**Ajuste sugerido:** dizer "por habitante", e não "por pessoa que usa o SUS". Antes de gravar, confira a fonte e o ano de cada número.
+
 ## Pendências
 
 - Tema leve (pergunta 5 da entrevista, complementar): ainda não respondido.
